@@ -1,0 +1,32 @@
+
+
+
+#food-fork {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+    color: green;
+}
+h2 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.center-list {
+    text-align: center;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace ;
+    
+}
