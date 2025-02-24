@@ -1,11 +1,14 @@
 
-
+* {
+    box-sizing: border-box;
+    
+}
 
 #food-fork {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    
 }
 
 
@@ -23,11 +26,41 @@ h2 {
 }
 
 .center-list {
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home-button {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.center-list-item {
+    margin: 25px;
+    font-weight: 150px;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 body {
     font-family: 'Courier New', Courier, monospace ;
     
 }
+
+p {
+    margin: 100p;
+}
+
 
